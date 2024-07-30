@@ -1,7 +1,4 @@
-# Filipe Augusto Nava De Almeida Pupo
 ## Trabalho 1 IPv6 com Biblioteca
-### PRESIDENTE PRUDENTE/SP
-#### 2024
 
 ## Sumário
 1. [Visão Geral](#visao-geral)
